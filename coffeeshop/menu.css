@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Shadows+Into+Light&family=Tilt+Warp&display=swap');
+body{
+    background: url(./beans.jpg);
+}
+h1{
+    text-align: center;
+    color: #6D4134;
+    font-family: 'Lato', sans-serif;
+    font-size: 45px;
+}
+h2{
+    text-align: center;
+    color: #6D4134;
+    font-family: 'Lato', sans-serif;
+    font-size: 35px;
+}
+p{
+    text-align: center;
+    color: #6D4134;
+    font-family: 'Tilt Warp', cursive;
+    font-size: 30px;
+}
+.menu{
+    width: 65%;
+    background-color: beige;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 500px;
+}
+.item p{
+    display: inline-block;
+}
+.type{
+    text-align: left;
+    width: 75%;
+    font-family:  'Shadows Into Light', cursive;
+}
+.price{
+    text-align: right;
+    width: 25px;
+    font-family:  'Shadows Into Light', cursive;
+}
+hr{
+    height: 3px;
+    background-color:brown;
+    border-color: brown;
+}
